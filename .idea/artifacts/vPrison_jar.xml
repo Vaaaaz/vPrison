@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="vPrison:jar">
+    <output-path>$PROJECT_DIR$/../../../Servidor/plugins</output-path>
+    <root id="archive" name="vPrison.jar">
+      <element id="module-output" name="vPrison" />
+    </root>
+  </artifact>
+</component>

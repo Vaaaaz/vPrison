@@ -1,0 +1,9 @@
+name: vPrison
+main: com.github.vazzzx.prison.Prison
+version: 1.0
+
+soft-depend:
+  - HeavyCore
+
+commands:
+  prison:

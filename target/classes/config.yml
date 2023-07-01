@@ -1,0 +1,16 @@
+sem-perm: "&cVocê não tem permissão."
+faltaob: "&cAinda faltam {quantidade} para você ser liberado!"
+preso-message: "&cVocê foi preso quebre {quantidade} para ser liberado!"
+entrar-com-item: "&aVocê vai receber uma ajudinha para sua pena acabar mais rápida!"
+removido-prison: "&cVocê foi removido da prison!"
+quebrou-ob: "&cVocê quebrou 1 obsidian, lhe faltam agora {faltando}"
+nao-pode-usar: "&cVocê está preso, apenas alguns comandos estão liberados!"
+ativar-item: false
+comandos-permitidos:
+  - "/."
+  - "/l"
+  - "/c"
+  - ""
+
+Accounts:
+Inventories:
